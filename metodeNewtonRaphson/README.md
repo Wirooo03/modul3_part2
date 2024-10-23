@@ -1,0 +1,1 @@
+ini adalah program menghitung nilai error menggunakan metode Newton Raphson
